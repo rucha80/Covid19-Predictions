@@ -14,6 +14,8 @@ Below are the Features of Implemented Model
 3.	 Gives prediction for the upcoming number of days starting from today
 4.	 Any change in the trend of the data is captured during training on real-time data 
 
+Please read the blog https://rsawarkar80.medium.com/forecasting-covid-19-cases-in-realtime-for-different-countries-d1d06fd1f1ec for full tutorial.
+
 Thank you for the read. I sincerely hope you found it helpful and as always I am open to constructive feedback.
 Drop me a mail at rsawarkar80@gmail.com
 
